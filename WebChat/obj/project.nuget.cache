@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqP8Mcygrq0MWoBDrjRIUMbPQGTTx4zMlbRstcHlaRVq8gQMYd7+xMpN6NEcGC5ZR3thCqgxdfziztFG1ZKWmw==",
+  "success": true,
+  "projectFilePath": "C:\\Repositories\\WebChat\\WebChat\\WebChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romap\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
